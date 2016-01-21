@@ -1,0 +1,414 @@
+body{
+	margin: 0 auto;
+	font-family: 'jaf-facitweb','Arial', 'Helvetica','Sans-serif';
+}
+
+.general{
+	width: 100%;
+	height: 100%;	
+}
+
+header{
+	position: fixed;
+	width: 100%;
+	height: 80px;
+	top: 0px;
+	left: 0px;
+	right: 0px;	
+	background-color: #fff;
+}
+
+.logo{
+	position: relative;
+	width: 40%;
+	float: left;
+	left: 2%;
+	top: 30%;
+}
+
+#logo{
+	width: 120px;
+	height: 30px;
+}
+
+.menu{
+	position: relative;
+	width: 38%;
+	float: right;
+	color: #757575;
+	top: 25%;
+}
+
+.esMenu{
+	padding-left: 30px;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+.esMenu:hover {
+	color: #6ab344;
+}
+
+.marsh{
+	width: 100%;
+	height: 700px;
+	overflow: hidden;	
+}
+
+.imMars{
+	position:relative;
+	float:none;
+	top:80px;
+	width: 1349px;
+	height: 600px;
+	overflow: hidden;
+}
+
+.teMars{
+	width: 40%;
+	height: 150px;
+	position: relative;
+	float:left;
+	left: 32%;
+	text-align: center;
+	bottom: 70%;	
+}
+
+h1{
+	font-size: 40px;
+	font-weight: lighter;	
+}
+
+.botonAzul{
+	position: relative;
+	float: right;
+	right: 17%;
+	top: 38px;
+}
+
+.disPan{
+	width: 100%;
+	height: 270px;
+	position:relative;
+	top: 30px;	
+}
+
+.tdisPan{
+	width: 70%;
+	height: 150px;
+	position: relative;
+	float:left;
+	left: 17%;
+	text-align: center;
+	bottom: 10%;	
+}
+
+.pdisPan{
+	max-width:500px;
+	margin-left: 25%;
+	line-height: 24px;
+}
+
+.links{
+	color: #6ab344;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.links:hover {
+	color: #339600;
+}
+
+.linkVerde{
+	font-weight: lighter;
+}
+
+.dispositivos{
+	width: 100%;
+	height: 450px;
+}
+
+.dispos{
+	width: 90%;
+	height: 450px;
+	position: absolute;	
+	left: 10%;	
+}
+
+.contImDis{
+	position: relative;
+	float: left;
+	width: 13%;
+	height: 400px;
+	text-align: center;
+}
+
+.contImDisp{
+	position: relative;
+	float: left;
+	width: 30%;
+	height: 400px;
+	text-align: center;
+}
+
+.androidW{
+	height: 110px;
+    width: 100px;
+}
+
+.telefonos{
+    height: 160px;
+    width: 90px;
+}
+
+.tablets{
+    height: 130px;
+    width: 90px;
+}
+
+.androidtv{
+    height: 170px;
+    width: 270px;
+}
+
+.androidauto{
+    height: 400px;
+    width: 375px;    
+}
+
+.aliAnW{
+	position: relative;
+	top:220px;
+}
+
+.aliAnT{
+	position: relative;
+	top: 170px;
+}
+
+.aliAnTa{
+	position: relative;
+	top: 200px;
+}
+
+.aliAnTv{
+	position: relative;
+	top: 160px;
+}
+
+.aliAnAt{
+	position: relative;
+	bottom: 70px;
+}
+
+
+
+
+
+.divimGo{
+	width: 100%;
+	height: 550px;
+	position: relative;
+}
+
+
+.imGo{
+	width: 1349px;
+	height: 550px;
+}
+
+.diGo{
+	background-color: #455a64;
+	width:100%;
+	height: 200px;
+	position: relative;
+	bottom: 33px;;
+}
+
+.teGo{
+	position: relative;
+	width: 60%;
+	color: #fff;
+	font-size: 19px;
+	font-weight: lighter;
+	left: 13%;
+	top:25px;
+	line-height: 25px;
+}
+
+.linknov{
+	color: #64ffda;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+.linknov:hover{
+	color: #00bfa5;
+}
+
+.diPers{
+	position:relative;
+	width: 100%;
+	height: 200px;
+	text-align: center;
+}
+
+.parrafo{
+	max-width:500px;
+	position:relative;
+	left: 31.5%;
+}
+
+.divPer{
+	width: 100%;
+	height: 450px;
+}
+ 
+.divimPer{
+	width: 1349px;
+	height: 400px;
+}
+
+.titulNov{
+	position:relative;
+	width:80%;
+	left: 10%;
+}
+
+.articulos{
+	position:relative;
+	float: left;
+	width: 22%;
+	margin-left:15px;
+	margin-right:15px;
+	height: 570px;
+	border: 1px ridge #e4e4e4;
+	border-radius: 5px;
+}
+
+.imArticulo{
+	width: 238px;
+	height: 170px;
+}
+
+.teAr{
+	width: 80%;
+	position:relative;
+	left: 10%;
+	line-height: 25px;
+}
+
+h2{
+	font-weight: lighter;
+	font-size: 20px;
+}
+
+.linksAr{
+	color: #6ab344;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 14px;	
+}
+
+.linksAr:hover {
+	color: #339600;
+}
+
+.espLinkAr{
+	position: relative;
+	top:201px;
+}
+
+.espLinkArt{
+	position: relative;
+	top:127px;
+}
+
+.espLinkArti{
+	position: relative;
+	top: 50px;
+}
+
+footer{
+	clear:both;
+	position: relative;
+	width: 100%;
+	height: 350px;
+	background-color: #fafafa;
+}
+
+.foot{
+	width: 92%;
+	position: relative;
+	left: 4%;
+}
+
+.volver{
+	position: relative;
+	float: right;
+	width: 100%;
+	height: 50px;
+	text-align: right;
+	font-size: 15px;
+	top: 20px;
+}
+
+.link{
+	color: #757575;
+	text-decoration: none;
+	font-weight: lighter;
+	position: relative;
+	top: 15px;
+	font-size: 15px;
+}
+
+.link:hover{
+	color: #6ab344;
+}
+
+.imFoot{
+	padding-right: 20px;
+}
+
+.infor{
+	color: #757575;
+	font-size: 14px;
+	position: relative;
+	top: 20px;
+	line-height: 25px;
+}
+
+.masin{
+	width: 100%;
+	height: 80px;
+	position: relative;
+	top: 40px;	
+	background-color: #e9eaed;
+}
+
+.idioma{
+	position: relative;
+	float: right;
+	top:30px;
+}
+
+.imMe{
+	position: relative;
+	top:25px;
+	opacity: 0.54;
+}
+
+.espLinF{
+	padding-right: 20px;
+}
+
+@media only screen and (max-width: 768px){
+	
+	768
+	1280
+	1920
+	
+}
+@media only screen and (min-width: 768px and max-width: 1220px) {}
+@media only screen and (min-width: 768px and max-width: 1220px) {}
+
